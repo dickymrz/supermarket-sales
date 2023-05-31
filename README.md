@@ -20,56 +20,56 @@ Pertumbuhan supermarket di kota-kota yang padat penduduknya semakin meningkat da
 
 1. Segmentasi Pelanggan
 
-  Mengukur jumlah pelanggan berdasarkan jenis pelanggan dan jenis kelamin dari setiap produk. Hal ini akan membantu dalam memahami profil pelanggan secara lebih terperinci dan mengidentifikasi segmentasi pelanggan yang berbeda.
+    Mengukur jumlah pelanggan berdasarkan jenis pelanggan dan jenis kelamin dari setiap produk. Hal ini akan membantu dalam memahami profil pelanggan secara lebih terperinci dan mengidentifikasi segmentasi pelanggan yang berbeda.
 
 2. Total penjualan per cabang supermarket.
 
-  Mengukur total nilai penjualan yang dihasilkan oleh masing-masing cabang supermarket beserta total customer.
+    Mengukur total nilai penjualan yang dihasilkan oleh masing-masing cabang supermarket beserta total customer.
 
 3. Rating rata-rata pengalaman berbelanja.
 
-  Mengukur rata-rata rating yang diberikan oleh pelanggan terhadap pengalaman berbelanja di supermarket termasuk persentase kontribusi penjualan yang berasal dari setiap kategori produk.
+    Mengukur rata-rata rating yang diberikan oleh pelanggan terhadap pengalaman berbelanja di supermarket termasuk persentase kontribusi penjualan yang berasal dari setiap kategori produk.
   
 ## Data Exploration
 1. Memahami struktur data: 
 
-  Mengidentifikasi jenis data (numerik, kategorikal, teks, dll.), ukuran dataset, dan atribut yang tersedia.
+    Mengidentifikasi jenis data (numerik, kategorikal, teks, dll.), ukuran dataset, dan atribut yang tersedia.
 
 2. Pemeriksaan missing value: 
 
-  Mengidentifikasi adanya missing value dalam dataset dan memahami sejauh mana keberadaan missing value dapat mempengaruhi analisis.
+    Mengidentifikasi adanya missing value dalam dataset dan memahami sejauh mana keberadaan missing value dapat mempengaruhi analisis.
 
 3. Handling data duplikat: 
 
-  Mengidentifikasi dan menghapus data duplikat dalam dataset.
+    Mengidentifikasi dan menghapus data duplikat dalam dataset.
 
 4. Analisis statistik deskriptif: 
 
-  Mengeksplorasi statistik deskriptif seperti mean, median, modus, deviasi standar, dan rangkuman lainnya untuk memahami distribusi dan tren dalam data.
+    Mengeksplorasi statistik deskriptif seperti mean, median, modus, deviasi standar, dan rangkuman lainnya untuk memahami distribusi dan tren dalam data.
 
 5. Analisis kategori: 
 
-  Mengeksplorasi distribusi dan frekuensi kategori dalam variabel kategorikal, serta melakukan analisis kategori lintas untuk memahami pola hubungan antara variabel kategorikal.
+    Mengeksplorasi distribusi dan frekuensi kategori dalam variabel kategorikal, serta melakukan analisis kategori lintas untuk memahami pola hubungan antara variabel kategorikal.
 
 6. Visualisasi data: 
 
-  Membuat visualisasi grafik seperti histogram, scatter plot, box plot, atau diagram lainnya untuk memvisualisasikan distribusi, korelasi, outliers, atau pola lain dalam data.
+    Membuat visualisasi grafik seperti histogram, scatter plot, box plot, atau diagram lainnya untuk memvisualisasikan distribusi, korelasi, outliers, atau pola lain dalam data.
 
 7. Identifikasi outlier: 
 
-  Mendeteksi dan mengevaluasi outlier atau nilai ekstrim dalam data yang dapat mempengaruhi hasil analisis.
+    Mendeteksi dan mengevaluasi outlier atau nilai ekstrim dalam data yang dapat mempengaruhi hasil analisis.
 
 8. Korelasi dan hubungan:
 
-  Menganalisis hubungan antara variabel dengan menggunakan metode seperti korelasi Pearson atau visualisasi matriks korelasi untuk memahami pola hubungan dalam data.
+    Menganalisis hubungan antara variabel dengan menggunakan metode seperti korelasi Pearson atau visualisasi matriks korelasi untuk memahami pola hubungan dalam data.
 
 9. Analisis tren dan pola: 
 
-  Menganalisis tren, pola, atau perubahan dalam data seiring waktu atau pada interval tertentu.
+    Menganalisis tren, pola, atau perubahan dalam data seiring waktu atau pada interval tertentu.
 
 10. Melakukan asumsi dan hipotesis: 
 
-  Mengidentifikasi asumsi dan hipotesis awal yang mungkin diuji selama analisis lebih lanjut.
+    Mengidentifikasi asumsi dan hipotesis awal yang mungkin diuji selama analisis lebih lanjut.
 
 ## Inference From Analysis
 1. Dataset yang digunakan memiliki jumlah baris 1000 dan 17 kolom
