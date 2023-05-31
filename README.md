@@ -40,9 +40,11 @@ Pertumbuhan supermarket di kota-kota yang padat penduduknya semakin meningkat da
   Mengidentifikasi adanya missing value dalam dataset dan memahami sejauh mana keberadaan missing value dapat mempengaruhi analisis.
 
 3. Handling data duplikat: 
+
   Mengidentifikasi dan menghapus data duplikat dalam dataset.
 
 4. Analisis statistik deskriptif: 
+
   Mengeksplorasi statistik deskriptif seperti mean, median, modus, deviasi standar, dan rangkuman lainnya untuk memahami distribusi dan tren dalam data.
 
 5. Analisis kategori: 
