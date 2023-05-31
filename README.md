@@ -13,7 +13,7 @@ Pertumbuhan supermarket di kota-kota yang padat penduduknya semakin meningkat da
 
 ## Goals
 1. Menganalisis kategori produk yang paling diminati oleh pelanggan.
-2 Mengidentifikasi cabang supermarket dengan penjualan tertinggi dan terendah.
+2  Mengidentifikasi cabang supermarket dengan penjualan tertinggi dan terendah.
 3. Menentukan jenis pelanggan yang memberikan rating pengalaman berbelanja tertinggi.
 
 ## Business Metrics
