@@ -79,13 +79,13 @@ Pertumbuhan supermarket di kota-kota yang padat penduduknya semakin meningkat da
 5. Terdapat beberapa outlier pada kolom "Tax 5%", "Total", "cogs", dan "gross income".
 6. Tidak ada korelasi yang signifikan antara variabel "Rating" dengan variabel numerik lainnya. Ini menunjukkan bahwa penilaian pelanggan terhadap pengalaman belanja mereka tidak secara langsung terkait dengan variabel-variabel numerik lainnya dalam dataset.
 7. Jumlah pelanggan terbagi hampir secara merata antara pelanggan dengan kartu anggota dan pelanggan biasa.
-  - Member: 501
-  - Normal: 499
+    - Member: 501
+    - Normal: 499
 8. Terdapat perbedaan jumlah pelanggan berdasarkan jenis kelamin dalam setiap kategori produk. Pada umumnya, jumlah pelanggan wanita lebih banyak daripada pelanggan pria.
 9. Kategori produk "Electronic accessories" dan "Sports and travel" menarik lebih banyak perhatian pelanggan pria, sedangkan kategori produk "Health and beauty" dan "Home and lifestyle" cenderung menarik lebih banyak perhatian pelanggan wanita.
 10. Jumlah pelanggan terbagi hampir secara merata antara pelanggan dengan jenis kelamin pria dan wanita
-  - Female: 501
-  - Male: 499
+    - Female: 501
+    - Male: 499
 11. Branch dengan total penjualan tertinggi adalah Branch C, diikuti oleh Branch A dan Branch B.
 12. Branch dengan jumlah pelanggan tertinggi adalah Branch A, diikuti oleh Branch B dan Branch C.
 13. Dari skala rating yang digunakan yaitu 0 hingga 10, kategori produk "Food and beverages" memiliki rating tertinggi
